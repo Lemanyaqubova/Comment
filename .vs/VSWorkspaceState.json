@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\JuanProject",
+    "\\JuanProject\\Areas",
+    "\\JuanProject\\Areas\\AdminAreas",
+    "\\JuanProject\\Areas\\AdminAreas\\Controllers",
+    "\\JuanProject\\Areas\\AdminAreas\\Models",
+    "\\JuanProject\\Areas\\AdminAreas\\Views",
+    "\\JuanProject\\Areas\\AdminAreas\\Views\\Category"
+  ],
+  "SelectedNode": "\\JuanProject\\Areas\\AdminAreas\\Views\\Category\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
